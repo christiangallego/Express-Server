@@ -11,4 +11,3 @@ Given the npm modules, update the app.js and index.js files:
  - Server should indicate when it is listening and on which port
 
 Project provided by `Front End Masters Express`: https://frontendmasters.com/courses/react-intro/using-express-part-1/
-# Express-Server
